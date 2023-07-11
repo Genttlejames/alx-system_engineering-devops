@@ -1,2 +1,2 @@
 #!/bin/bash
-A readme file describing what each script is doing
+0x02. Shell, I/O Redirections and filters
